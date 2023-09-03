@@ -18,7 +18,7 @@
   "lint-staged": {
     "src/**/*.ts": "yarn lint-prettier"
   },
-  "author": "Yeasin Arafat",
+  "author": "Daniel Newaz",
   "license": "ISC",
   "devDependencies": {
     "@types/cors": "^2.8.13",
